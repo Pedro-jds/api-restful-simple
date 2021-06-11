@@ -1,4 +1,4 @@
-package br.com.springboot.API_RESTful.controllers;
+package br.com.springboot.api.controllers;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.PathVariable;
